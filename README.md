@@ -5,3 +5,5 @@ Classification folder https://drive.google.com/drive/folders/1EmqaFlNT-4fEd7JYa9
 Detection folder https://drive.google.com/drive/folders/1rSDId8sZG-P_ugat-roYl5hrVpaJcCfK?usp=sharing
 
 Final folder https://drive.google.com/drive/folders/1Xi92VV0Yosxy4l09TFCAi__uWZirRHRd?usp=sharing
+
+Скрипт main.py из директории System запускается следующим образом: python main.py --image='path_to_image'
